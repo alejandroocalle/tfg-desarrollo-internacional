@@ -5,7 +5,7 @@ Repositorio del Trabajo Fin de Grado: análisis comparado del desarrollo interna
 ## Resumen
 
 - Datos: WDI del Banco Mundial, año 2022 (descarga automática mediante el paquete `WDI`).
-- Variables (9)**: PIB per cápita, % usuarios de internet, mortalidad infantil, crecimiento poblacional, % población urbana, esperanza de vida, gasto en educación (% PIB), tasa de desempleo y % acceso a la electricidad.
+- Variables (9): PIB per cápita, % usuarios de internet, mortalidad infantil, crecimiento poblacional, % población urbana, esperanza de vida, gasto en educación (% PIB), tasa de desempleo y % acceso a la electricidad.
 - Técnicas: Análisis de Componentes Principales (PCA), reducción no lineal t-SNE, clustering k-means y clustering jerárquico (Ward D2).
 - Resultados: las dos primeras componentes principales explican el 63,2% de la varianza; el k-means con k = 4 identifica cuatro perfiles —países de renta baja, en desarrollo, emergentes y desarrollados—, validados mediante t-SNE y clustering jerárquico.
 
